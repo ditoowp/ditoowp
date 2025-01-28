@@ -62,7 +62,7 @@
 
 ###
 
-<h3 align="left">🚖Uber vs. Lyft : Linear Regression Model</h3>
+<h3 align="left">🚖Uber vs. Lyft : Linear Regression Model <a href="https://github.com/ditoowp/ride-hailing-linreg" target="_blank">[Repo]</a></h3>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h3 align="left">🏡California Median House Price : Linear Regression Model</h3>
+<h3 align="left">🏡California Median House Price : Linear Regression Model <a href="https://github.com/ditoowp/house-medprice-linreg" target="_blank">[Repo]</a></h3>
 
 ###
 
@@ -78,7 +78,7 @@
 
 ###
 
-<h3 align="left">💳Credit Card Customer : Clustering / Segmentation</h3>
+<h3 align="left">💳Credit Card Customer : Clustering / Segmentation <a href="https://github.com/ditoowp/credit-card-customer-clustering" target="_blank">[Repo]</a></h3>
 
 ###
 
@@ -86,7 +86,7 @@
 
 ###
 
-<h3 align="left">☄️HiBlu: LLM Chatbot for Blu (BCA Digital)</h3>
+<h3 align="left">☄️HiBlu: LLM Chatbot for Blu (BCA Digital) <a href="https://github.com/ditoowp/hiblu_llm_chatbot" target="_blank">[Repo]</a></h3>
 
 ###
 

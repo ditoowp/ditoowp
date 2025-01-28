@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">🐄Dairy Products Sold in India : Analysis <a href="https://github.com/ditoowp/dairy-product-analysis" target="_blank">Repo</a></h3>
+<h3 align="left">🐄Dairy Products Sold in India : Analysis <a href="https://github.com/ditoowp/dairy-product-analysis" target="_blank">[Repo]</a></h3>
 
 ###
 

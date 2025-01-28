@@ -90,16 +90,10 @@
 
 ###
 
-<p align="left">The last but not least, my favorite project. Why? Because this was my first group project because I had the opportunity to collaborate with my teammates, who were my friends I met during the bootcamp. My role here was Data Engineer.<br><br>HiBlu is an LLM-powered chatbot prototype designed to enhance user experience for blu, a digital banking service by BCA. It leverages Generative AI to deliver accurate, efficient responses to customer inquiries, aiming to improve response times, operational cost efficiency, and user satisfaction. This prototype sets the foundation for broader AI integration across BCA's services.</p>
+<p align="left">The last but not least, my favorite project. Why? Because this was my first group project and I had the opportunity to collaborate with my teammates, who were my friends I met during the bootcamp. My role here was Data Engineer.<br><br>HiBlu is an LLM-powered chatbot prototype designed to enhance user experience for blu, a digital banking service by BCA. It leverages Generative AI to deliver accurate, efficient responses to customer inquiries, aiming to improve response times, operational cost efficiency, and user satisfaction. This prototype sets the foundation for broader AI integration across BCA's services.</p>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ditoowp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<h2 align="center">That would be it for my GitHub profile, thank you so much for being here and looking at my profile😁</h2>
 
 ###

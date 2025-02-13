@@ -88,11 +88,11 @@
 
 ###
 
-<h3 align="left">☄️HiBlu: LLM Chatbot for Blu (BCA Digital) <a href="https://github.com/ditoowp/hiblu_llm_chatbot" target="_blank">[Repo]</a></h3>
+<h3 align="left">☄️HiBlu : LLM Chatbot for Blu (BCA Digital) <a href="https://github.com/ditoowp/hiblu_llm_chatbot" target="_blank">[Repo]</a></h3>
 
 ###
 
-<p align="left">The last but not least, my favorite project. Why? Because this was my first group project and I had the opportunity to collaborate with my teammates, who were my friends I met during the bootcamp. My role here was Data Engineer.<br><br>HiBlu is an LLM-powered chatbot prototype designed to enhance user experience for blu, a digital banking service by BCA. It leverages Generative AI to deliver accurate, efficient responses to customer inquiries, aiming to improve response times, operational cost efficiency, and user satisfaction. This prototype sets the foundation for broader AI integration across BCA's services.</p>
+<p align="left">The last but not least, my favorite project. Why? Because this was my first group project and I had the opportunity to collaborate with my teammates, who were my friends I met during the bootcamp, which I grow close to. My role here was as a Data Engineer.<br><br>HiBlu is an LLM-powered chatbot prototype designed to enhance user experience for blu, a digital banking service by BCA. It leverages Generative AI to deliver accurate, efficient responses to customer inquiries, aiming to improve response times, operational cost efficiency, and user satisfaction. This prototype sets the foundation for broader AI integration across BCA's services.</p>
 
 ###
 
